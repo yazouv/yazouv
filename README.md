@@ -104,9 +104,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 <!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
 <!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
 
-<!--START_SECTION:SHOW_PROFILE_VIEWS-->
-<!--END_SECTION:SHOW_PROFILE_VIEWS-->
-
 <!--START_SECTION:SHOW_COMMIT-->
 <!--END_SECTION:SHOW_COMMIT-->
 
@@ -115,6 +112,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--START_SECTION:SHOW_LANGUAGE-->
 <!--END_SECTION:SHOW_LANGUAGE-->
+
+<!--START_SECTION:SHOW_PROFILE_VIEWS-->
+<!--END_SECTION:SHOW_PROFILE_VIEWS-->
 
 <!--START_SECTION:SHOW_TIMEZONE-->
 <!--END_SECTION:SHOW_TIMEZONE-->
