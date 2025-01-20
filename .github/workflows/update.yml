@@ -23,4 +23,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_TIMEZONE: "Europe/Paris"
+          SHOW_TIMEZONE: "True"
