@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm computer science student
-<br>I like creating lua scripts for ![FiveM](https://fivem.net/) servers.
+<br>I like creating lua scripts for [![FiveM]()](https://fivem.net) servers.
 <br>You can see my scripts ![here](https://github.com/yazouv?tab=repositories&q=&type=&language=lua&sort=)
 
 
