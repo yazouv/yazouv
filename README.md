@@ -11,7 +11,7 @@ I'm computer science student
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,21 +32,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                349 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-🌆 Daytime                596 commits         ██████████░░░░░░░░░░░░░░░   39.37 % 
-🌃 Evening                378 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-🌙 Night                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+🌞 Morning                349 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+🌆 Daytime                599 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌃 Evening                386 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌙 Night                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Wednesday                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Thursday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Friday                   212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Saturday                 274 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Sunday                   266 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Monday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Tuesday                  169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Wednesday                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Friday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Saturday                 283 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Sunday                   274 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 ```
 
 
@@ -56,23 +56,23 @@ Sunday                   266 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 48 mins        ███████████████░░░░░░░░░░   60.10 % 
-Bash                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+PHP                      3 hrs 24 mins       ████████████████░░░░░░░░░   62.10 % 
+JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Bash                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+CSV                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 34 mins       █████████████████████░░░░   85.39 % 
-spotrail                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-newintra                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Unknown Project          4 hrs 37 mins       █████████████████████░░░░   84.24 % 
+newintra                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+spotrail                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       ███████████████████████░░   93.68 % 
-Linux                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Windows                  4 hrs 52 mins       ██████████████████████░░░   88.80 % 
+Linux                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +88,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 11:36:54 UTC
+ Last Updated on 04/05/2025 11:37:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
