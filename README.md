@@ -11,17 +11,17 @@ I'm computer science student
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,154 Contributions in the Year 2025
+> 🏆 1,205 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1198 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-🌆 Daytime                2009 commits        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-🌃 Evening                1727 commits        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌙 Night                  1037 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+🌞 Morning                1172 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌆 Daytime                1932 commits        ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌃 Evening                1723 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌙 Night                  953 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Tuesday                  815 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                1412 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Thursday                 795 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Friday                   850 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Saturday                 747 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Sunday                   741 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Monday                   622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Tuesday                  870 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Wednesday                1436 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Thursday                 597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Friday                   816 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Saturday                 744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Sunday                   695 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 
 
@@ -56,24 +56,23 @@ Sunday                   741 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Java                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-PHP                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Vue.js                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+JSON                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   30.74 % 
+PHP                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Vue.js                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Rust                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   33.66 % 
-r3.05-programmation-syste51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-R304-MarsRover           39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-lacosina2                36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-portfolio-vue            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Unknown Project          1 hr 27 mins        ███████████░░░░░░░░░░░░░░   43.66 % 
+r3.05-programmation-syste51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+lacosina2                36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+portfolio-vue            24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 
 💻 Operating System: 
-Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +88,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2025 11:36:52 UTC
+ Last Updated on 26/11/2025 11:36:17 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
