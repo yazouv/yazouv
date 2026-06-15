@@ -15,7 +15,7 @@ I'm computer science student
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C778%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -23,7 +23,7 @@ I'm computer science student
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 2,861 Contributions in the Year 2026
+> 🏆 2,862 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,51 +31,6 @@ I'm computer science student
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4599 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-🌆 Daytime                11059 commits       ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌃 Evening                8868 commits        ████████░░░░░░░░░░░░░░░░░   33.39 % 
-🌙 Night                  2031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Tuesday                  4475 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Wednesday                4575 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 3281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Friday                   3664 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Saturday                 3010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   3898 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-SSH Config               33 mins             ████████████░░░░░░░░░░░░░   46.08 % 
-Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-TypeScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-
-🔥 Editors: 
-VS Code                  37 mins             █████████████░░░░░░░░░░░░   50.91 % 
-Claude Code              35 mins             ████████████░░░░░░░░░░░░░   49.09 % 
-
-🐱‍💻 Projects: 
-TranScriptor             39 mins             █████████████░░░░░░░░░░░░   53.92 % 
-Unknown Project          33 mins             ████████████░░░░░░░░░░░░░   46.08 % 
-
-💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -89,7 +44,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2026 12:17:12 UTC
+ Last Updated on 15/06/2026 13:39:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
