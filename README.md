@@ -13,17 +13,17 @@ I'm computer science student
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,162 Contributions in the Year 2026
+> 🏆 3,178 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,21 +34,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4434 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-🌆 Daytime                10272 commits       ██████████░░░░░░░░░░░░░░░   41.09 % 
-🌃 Evening                8347 commits        ████████░░░░░░░░░░░░░░░░░   33.39 % 
+🌞 Morning                4438 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+🌆 Daytime                10276 commits       ██████████░░░░░░░░░░░░░░░   41.08 % 
+🌃 Evening                8356 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
 🌙 Night                  1945 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3596 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Tuesday                  4198 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Wednesday                4435 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Thursday                 3053 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday                   3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Monday                   3596 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Tuesday                  4208 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Wednesday                4442 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Thursday                 3053 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Friday                   3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 Saturday                 2778 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Sunday                   3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
@@ -58,23 +58,24 @@ Sunday                   3469 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PowerShell               41 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-YAML                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Kotlin                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-XML                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Dart                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Vue                      1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+PowerShell               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Kotlin                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 26 mins       ███████████████████████░░   93.25 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Claude Code              4 hrs 7 mins        ███████████████████░░░░░░   75.28 % 
+VS Code                  1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 
 🐱‍💻 Projects: 
-securechat_flutter       2 hrs 26 mins       ███████████████████████░░   93.18 % 
-lois2                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-securechat               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+ProjetCABNEW             2 hrs 51 mins       █████████████░░░░░░░░░░░░   52.07 % 
+securechat_flutter       2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.66 % 
+lois2                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+securechat               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +91,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 12:53:24 UTC
+ Last Updated on 15/07/2026 12:56:44 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
