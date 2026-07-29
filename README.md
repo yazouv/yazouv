@@ -19,13 +19,13 @@ I'm computer science student
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.40%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,276 Contributions in the Year 2026
+> 🏆 3,285 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4441 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-🌆 Daytime                10362 commits       ██████████░░░░░░░░░░░░░░░   41.11 % 
-🌃 Evening                8453 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
-🌙 Night                  1947 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌞 Morning                4444 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+🌆 Daytime                10370 commits       ██████████░░░░░░░░░░░░░░░   41.12 % 
+🌃 Evening                8459 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
+🌙 Night                  1947 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3603 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Tuesday                  4226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Wednesday                4507 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Thursday                 3080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Friday                   3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Monday                   3603 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  4241 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Wednesday                4510 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Thursday                 3080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Friday                   3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 Saturday                 2806 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Sunday                   3512 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Sunday                   3511 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 ```
 
 
@@ -60,21 +60,21 @@ Sunday                   3512 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 25 mins             ██████████░░░░░░░░░░░░░░░   40.36 % 
-HTML                     21 mins             █████████░░░░░░░░░░░░░░░░   34.05 % 
-Lua                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Markdown                 25 mins             ██████████░░░░░░░░░░░░░░░   40.60 % 
+HTML                     21 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
+Lua                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-VS Code                  38 mins             ███████████████░░░░░░░░░░   61.11 % 
-Claude Code              24 mins             ██████████░░░░░░░░░░░░░░░   38.89 % 
+VS Code                  37 mins             ███████████████░░░░░░░░░░   60.88 % 
+Claude Code              24 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
 
 🐱‍💻 Projects: 
-ProjectGuitare           24 mins             ██████████░░░░░░░░░░░░░░░   38.89 % 
-Unknown Project          22 mins             █████████░░░░░░░░░░░░░░░░   35.57 % 
-RAR                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-securechat_flutter       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+ProjectGuitare           24 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
+Unknown Project          21 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
+RAR                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+securechat_flutter       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
 Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
@@ -83,7 +83,7 @@ Windows                  1 hr 2 mins         ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (42.51%)
+⏱ AI Coding Time: 26 mins (42.76%)
 
 ✍️ 418 lines written by AI, 2,447 lines written by hand (14.59% AI-written)
 
@@ -115,7 +115,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 13:15:48 UTC
+ Last Updated on 29/07/2026 13:21:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
