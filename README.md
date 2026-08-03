@@ -25,7 +25,7 @@ I'm computer science student
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,299 Contributions in the Year 2026
+> 🏆 3,324 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4573 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-🌆 Daytime                11010 commits       ██████████░░░░░░░░░░░░░░░   41.18 % 
-🌃 Evening                9106 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
-🌙 Night                  2048 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+🌞 Morning                4573 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+🌆 Daytime                11010 commits       ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌃 Evening                9156 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌙 Night                  2048 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3817 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  4539 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Wednesday                4690 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Thursday                 3256 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Friday                   3652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Saturday                 2964 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Sunday                   3819 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Monday                   3817 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Tuesday                  4539 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Wednesday                4690 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Thursday                 3256 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Friday                   3652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Saturday                 2964 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   3869 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 ```
 
 
@@ -60,33 +60,32 @@ Sunday                   3819 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 37 mins             ██████████░░░░░░░░░░░░░░░   40.46 % 
-Python                   25 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-HTML                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Lua                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Python                   25 mins             ███████████░░░░░░░░░░░░░░   43.75 % 
+HTML                     19 mins             ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████░░░░░░░░   67.88 % 
-Claude Code              29 mins             ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Claude Code              29 mins             █████████████░░░░░░░░░░░░   51.66 % 
+VS Code                  27 mins             ████████████░░░░░░░░░░░░░   48.34 % 
 
 🐱‍💻 Projects: 
-RAR                      25 mins             ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-Unknown Project          21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-ProjectGuitare           19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Programme-pes-e          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Revo                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+ProjectGuitare           19 mins             ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Programme-pes-e          15 mins             ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+RAR                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Revo                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (47.32%)
+⏱ AI Coding Time: 43 mins (76.09%)
 
-✍️ 986 lines written by AI, 2,447 lines written by hand (28.72% AI-written)
+✍️ 986 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 3,174,109 Input Tokens, 50,764 Output Tokens
 
@@ -97,10 +96,10 @@ Windows                  1 hr 32 mins        ███████████�
 Opus                     987 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.72% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 183 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.28% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +115,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 12:40:33 UTC
+ Last Updated on 03/08/2026 14:07:24 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
