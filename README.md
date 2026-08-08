@@ -13,15 +13,19 @@ I'm computer science student
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2049%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2038%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,446 Contributions in the Year 2026
+> 🏆 3,489 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,6 +33,55 @@ I'm computer science student
  > 
 > 🔑 35 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4624 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌆 Daytime                11105 commits       ██████████░░░░░░░░░░░░░░░   41.21 % 
+🌃 Evening                9094 commits        ████████░░░░░░░░░░░░░░░░░   33.75 % 
+🌙 Night                  2123 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3817 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Tuesday                  4696 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Wednesday                4844 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Thursday                 3045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Friday                   3629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 3044 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Sunday                   3871 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+SSH Config               6 mins              ████████████████░░░░░░░░░   66.00 % 
+Lua                      3 mins              ████████░░░░░░░░░░░░░░░░░   31.62 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+
+🔥 Editors: 
+VS Code                  9 mins              ████████████████████████░   94.70 % 
+Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+
+🐱‍💻 Projects: 
+Unknown Project          6 mins              ████████████████░░░░░░░░░   66.00 % 
+RAR                      3 mins              ████████░░░░░░░░░░░░░░░░░   34.00 % 
+
+💻 Operating System: 
+Windows                  10 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -42,7 +95,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 12:14:59 UTC
+ Last Updated on 08/08/2026 11:58:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
