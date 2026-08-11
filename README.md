@@ -19,13 +19,13 @@ I'm computer science student
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,524 Contributions in the Year 2026
+> 🏆 3,528 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4626 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-🌆 Daytime                11143 commits       ██████████░░░░░░░░░░░░░░░   41.31 % 
-🌃 Evening                9050 commits        ████████░░░░░░░░░░░░░░░░░   33.55 % 
-🌙 Night                  2155 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+🌞 Morning                4764 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+🌆 Daytime                11798 commits       ██████████░░░░░░░░░░░░░░░   41.33 % 
+🌃 Evening                9719 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌙 Night                  2264 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3841 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Tuesday                  4649 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                4822 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Thursday                 3045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Friday                   3629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 3060 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Sunday                   3928 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Monday                   4061 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Tuesday                  4959 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Wednesday                5016 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Thursday                 3221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Friday                   3810 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Saturday                 3219 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Sunday                   4259 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 
@@ -60,20 +60,17 @@ Sunday                   3928 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-SSH Config               6 mins              ████████████████░░░░░░░░░   66.00 % 
-Lua                      3 mins              ████████░░░░░░░░░░░░░░░░░   31.62 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+SSH Config               6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  9 mins              ████████████████████████░   94.70 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+VS Code                  5 mins              ███████████████████████░░   91.55 % 
+Claude Code              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              ████████████████░░░░░░░░░   66.00 % 
-RAR                      3 mins              ████████░░░░░░░░░░░░░░░░░   34.00 % 
+Unknown Project          6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +92,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 12:14:45 UTC
+ Last Updated on 11/08/2026 12:15:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
