@@ -19,13 +19,13 @@ I'm computer science student
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.88%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,695 Contributions in the Year 2026
+> 🏆 3,727 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5434 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌆 Daytime                14894 commits       ██████████░░░░░░░░░░░░░░░   40.75 % 
-🌃 Evening                13219 commits       █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌙 Night                  3001 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+🌞 Morning                4722 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+🌆 Daytime                11349 commits       ██████████░░░░░░░░░░░░░░░   40.61 % 
+🌃 Evening                9611 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌙 Night                  2265 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   5113 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Tuesday                  6560 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Wednesday                6003 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Thursday                 4226 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Friday                   4899 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Saturday                 4033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Sunday                   5714 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Monday                   3913 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Tuesday                  4770 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Wednesday                4872 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Thursday                 3355 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   3897 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Saturday                 3148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   3992 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 
@@ -60,45 +60,22 @@ Sunday                   5714 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PowerShell               22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-JavaScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-PHP                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 36 mins        ████████████████████████░   95.63 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Claude Code              0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-IntranetBLS              1 hr 38 mins        █████████████████████████   98.38 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (98.38%)
-
-✍️ 103 lines written by AI, 2 lines written by hand (98.1% AI-written)
-
-🔤 826,918 Input Tokens, 70,164 Output Tokens
-
-💵 $26.08 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 34 AI Prompts
-
-Opus                     106 lines           ████████████████████░░░░░   81.54 % 
-Sonnet                   24 lines            █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.1% of written lines came from AI
-📚 Verbose Prompter — average 28,631 characters per prompt
-🔁 Iterative Prompter — average 34 prompts per session
-🚀 High AI Trust — 1.87% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +91,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 12:00:27 UTC
+ Last Updated on 22/08/2026 11:52:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
