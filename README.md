@@ -13,13 +13,13 @@ I'm computer science student
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5431 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-🌆 Daytime                15018 commits       ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌃 Evening                13480 commits       █████████░░░░░░░░░░░░░░░░   36.46 % 
-🌙 Night                  3041 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+🌞 Morning                5445 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+🌆 Daytime                15198 commits       ██████████░░░░░░░░░░░░░░░   40.47 % 
+🌃 Evening                13758 commits       █████████░░░░░░░░░░░░░░░░   36.64 % 
+🌙 Night                  3153 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Tuesday                  6580 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Wednesday                6111 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 4345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Friday                   4995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 4075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Sunday                   5715 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Monday                   5197 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Tuesday                  6730 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Wednesday                6235 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Thursday                 4417 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Friday                   5067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Saturday                 4145 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   5763 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 ```
 
 
@@ -60,22 +60,44 @@ Sunday                   5715 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      27 mins             ████████████████░░░░░░░░░   63.64 % 
+TypeScript               14 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
+Prisma                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
+VS Code                  36 mins             █████████████████████░░░░   82.05 % 
+Claude Code              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-app                   43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (42.4%)
+
+✍️ 0 lines written by AI, 290 lines written by hand (0.0% AI-written)
+
+🔤 26,103 Input Tokens, 2,573 Output Tokens
+
+💵 $4.59 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 9 AI Prompts
+
+Opus                     32 lines            ██████████████████████░░░   86.49 % 
+Sonnet                   5 lines             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +113,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 15:43:49 UTC
+ Last Updated on 02/09/2026 15:24:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
