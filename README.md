@@ -13,13 +13,13 @@ I'm computer science student
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5764 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-🌆 Daytime                16379 commits       ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌃 Evening                14289 commits       █████████░░░░░░░░░░░░░░░░   35.93 % 
-🌙 Night                  3334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+🌞 Morning                5699 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+🌆 Daytime                16379 commits       ██████████░░░░░░░░░░░░░░░   41.59 % 
+🌃 Evening                13974 commits       █████████░░░░░░░░░░░░░░░░   35.48 % 
+🌙 Night                  3334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Tuesday                  6872 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Wednesday                6396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Thursday                 4494 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Friday                   5582 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Saturday                 4890 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Sunday                   6184 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Monday                   5348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Tuesday                  6812 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Wednesday                6396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Thursday                 4279 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Friday                   5542 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Saturday                 4825 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Sunday                   6184 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 ```
 
 
@@ -60,49 +60,49 @@ Sunday                   6184 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Rust                     1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-TeX                      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Rust                     2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+TypeScript               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+TeX                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 3 mins        ██████████████████░░░░░░░   70.13 % 
-Claude Code              2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+VS Code                  5 hrs 14 mins       ████████████████░░░░░░░░░   62.50 % 
+Claude Code              3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.50 % 
 
 🐱‍💻 Projects: 
-SAE                      2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
-R5-03                    1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-IUT                      1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-IntranetV3               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-SAENuxtTypeORM           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+SAE                      2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+R5-03                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+IUT                      1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+EDTUnilim                1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+IntranetV3               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 💻 Operating System: 
-Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 33 mins (63.2%)
+⏱ AI Coding Time: 5 hrs 42 mins (68.01%)
 
-✍️ 2,826 lines written by AI, 762 lines written by hand (78.76% AI-written)
+✍️ 3,805 lines written by AI, 757 lines written by hand (83.41% AI-written)
 
-🔤 946,507 Input Tokens, 255,302 Output Tokens
+🔤 1,116,864 Input Tokens, 310,213 Output Tokens
 
-💵 $13.17 Estimated AI Cost This Week
+💵 $16.56 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 90 AI Prompts
+🧠 25 AI Sessions, 107 AI Prompts
 
-Sonnet                   2,473 lines         █████████████████████░░░░   83.66 % 
-Github-Copilot           483 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Sonnet                   3,452 lines         ██████████████████████░░░   87.73 % 
+Github-Copilot           483 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.76% of written lines came from AI
-📝 Concise Prompter — average 281 characters per prompt
+🤖 AI-Driven — 83.41% of written lines came from AI
+📝 Concise Prompter — average 304 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 27.44% of changed lines were hand-edited
+🚀 High AI Trust — 22.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 14:44:32 UTC
+ Last Updated on 20/09/2026 14:54:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
