@@ -13,19 +13,19 @@ I'm computer science student
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C165%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 4,218 Contributions in the Year 2026
+> 🏆 4,244 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5707 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-🌆 Daytime                16613 commits       ██████████░░░░░░░░░░░░░░░   41.50 % 
-🌃 Evening                14293 commits       █████████░░░░░░░░░░░░░░░░   35.71 % 
-🌙 Night                  3414 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+🌞 Morning                5745 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌆 Daytime                16757 commits       ██████████░░░░░░░░░░░░░░░   41.46 % 
+🌃 Evening                14454 commits       █████████░░░░░░░░░░░░░░░░   35.76 % 
+🌙 Night                  3460 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5461 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Tuesday                  6856 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Wednesday                6428 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Thursday                 4325 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Friday                   5648 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Saturday                 5003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Sunday                   6306 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Monday                   5519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  6923 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Wednesday                6454 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Thursday                 4348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Friday                   5701 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 5098 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Sunday                   6373 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 ```
 
 
@@ -60,49 +60,48 @@ Sunday                   6306 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Rust                     2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-TypeScript               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-TeX                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+TypeScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
+Rust                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+TeX                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 14 mins       ████████████████░░░░░░░░░   62.50 % 
-Claude Code              3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.50 % 
+VS Code                  3 hrs 7 mins        ██████████████░░░░░░░░░░░   56.04 % 
+Claude Code              2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.96 % 
 
 🐱‍💻 Projects: 
-SAE                      2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-R5-03                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-IUT                      1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-EDTUnilim                1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-IntranetV3               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+SAE                      2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+EDTUnilim                1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+IUT                      51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+IntranetV3               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+R5-06                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 💻 Operating System: 
-Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 42 mins (68.01%)
+⏱ AI Coding Time: 3 hrs 52 mins (69.58%)
 
-✍️ 3,805 lines written by AI, 757 lines written by hand (83.41% AI-written)
+✍️ 2,522 lines written by AI, 168 lines written by hand (93.75% AI-written)
 
-🔤 1,082,687 Input Tokens, 310,061 Output Tokens
+🔤 540,788 Input Tokens, 149,466 Output Tokens
 
-💵 $16.35 Estimated AI Cost This Week
+💵 $8.26 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 106 AI Prompts
+🧠 10 AI Sessions, 70 AI Prompts
 
-Sonnet                   3,452 lines         ██████████████████████░░░   87.73 % 
-Github-Copilot           483 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Sonnet                   2,579 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.41% of written lines came from AI
-📝 Concise Prompter — average 305 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 22.05% of changed lines were hand-edited
+🤖 AI-Driven — 93.75% of written lines came from AI
+📝 Concise Prompter — average 308 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 9.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +117,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 17:21:46 UTC
+ Last Updated on 22/09/2026 15:45:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
