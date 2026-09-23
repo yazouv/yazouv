@@ -17,15 +17,15 @@ I'm computer science student
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 4,244 Contributions in the Year 2026
+> 🏆 4,267 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@ I'm computer science student
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5745 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌆 Daytime                16757 commits       ██████████░░░░░░░░░░░░░░░   41.46 % 
-🌃 Evening                14454 commits       █████████░░░░░░░░░░░░░░░░   35.76 % 
+🌞 Morning                5747 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌆 Daytime                16778 commits       ██████████░░░░░░░░░░░░░░░   41.49 % 
+🌃 Evening                14454 commits       █████████░░░░░░░░░░░░░░░░   35.74 % 
 🌙 Night                  3460 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  6923 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Wednesday                6454 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Thursday                 4348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Friday                   5701 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Monday                   5519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Tuesday                  6923 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                6477 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Thursday                 4348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Friday                   5701 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 Saturday                 5098 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Sunday                   6373 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Sunday                   6373 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 ```
 
 
@@ -60,48 +60,48 @@ Sunday                   6373 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Rust                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-TeX                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+TypeScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.05 % 
+Rust                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+TeX                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        ██████████████░░░░░░░░░░░   56.04 % 
-Claude Code              2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.96 % 
+VS Code                  3 hrs 8 mins        ██████████████░░░░░░░░░░░   56.25 % 
+Claude Code              2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.75 % 
 
 🐱‍💻 Projects: 
-SAE                      2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-EDTUnilim                1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-IUT                      51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-IntranetV3               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-R5-06                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+SAE                      2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.62 % 
+EDTUnilim                1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+IUT                      51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+IntranetV3               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+R5-06                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 💻 Operating System: 
-Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 52 mins (69.58%)
+⏱ AI Coding Time: 3 hrs 52 mins (69.29%)
 
-✍️ 2,522 lines written by AI, 168 lines written by hand (93.75% AI-written)
+✍️ 2,522 lines written by AI, 169 lines written by hand (93.72% AI-written)
 
-🔤 540,788 Input Tokens, 149,466 Output Tokens
+🔤 517,809 Input Tokens, 147,705 Output Tokens
 
-💵 $8.26 Estimated AI Cost This Week
+💵 $6.98 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 70 AI Prompts
+🧠 9 AI Sessions, 69 AI Prompts
 
-Sonnet                   2,579 lines         █████████████████████████   100.00 % 
+Sonnet                   2,543 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.75% of written lines came from AI
-📝 Concise Prompter — average 308 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 9.85% of changed lines were hand-edited
+🤖 AI-Driven — 93.72% of written lines came from AI
+📝 Concise Prompter — average 285 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 9.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +117,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 15:45:19 UTC
+ Last Updated on 23/09/2026 15:40:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
