@@ -60,49 +60,51 @@ Sunday                   6617 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-TypeScript               2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-JavaScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-PHP                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+TypeScript               2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+JavaScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+PHP                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 38 mins       █████████████░░░░░░░░░░░░   50.95 % 
-VS Code                  6 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.05 % 
+VS Code                  6 hrs 12 mins       █████████████░░░░░░░░░░░░   51.05 % 
+Claude Code              5 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.16 % 
+Copilot CLI              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🐱‍💻 Projects: 
-EDTUnilim                2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-SAE                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-RecrutementsRevolutionV2 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-IUT                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-!AAC                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+SAE                      2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+RecrutementsRevolutionV2 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+EDTUnilim                1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+IUT                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+!AAC                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 💻 Operating System: 
-Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  12 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 41 mins (66.72%)
+⏱ AI Coding Time: 7 hrs 52 mins (64.7%)
 
-✍️ 10,214 lines written by AI, 281 lines written by hand (97.32% AI-written)
+✍️ 9,307 lines written by AI, 280 lines written by hand (97.08% AI-written)
 
-🔤 2,083,116 Input Tokens, 624,462 Output Tokens
+🔤 1,922,983 Input Tokens, 572,640 Output Tokens
 
-💵 $66.71 Estimated AI Cost This Week
+💵 $63.52 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 123 AI Prompts
+🧠 20 AI Sessions, 117 AI Prompts
 
-Opus                     11,620 lines        ████████████████████░░░░░   81.60 % 
-Sonnet                   2,620 lines         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Opus                     11,620 lines        ██████████████████████░░░   87.11 % 
+Sonnet                   1,654 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+GPT                      65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.32% of written lines came from AI
-📝 Concise Prompter — average 373 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.04% of changed lines were hand-edited
+🤖 AI-Driven — 97.08% of written lines came from AI
+📝 Concise Prompter — average 338 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +120,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 15:15:34 UTC
+ Last Updated on 27/09/2026 15:52:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
