@@ -1,17 +1,138 @@
-# 💫 About Me:
-I'm computer science student
-<br>I like creating lua scripts for <a href="https://fivem.net" target="_blank">FiveM</a> servers.
-<br>You can see my scripts ![here](https://github.com/yazouv?tab=repositories&q=&type=&language=lua&sort=)
+<!-- ======================= HEADER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:0077B6,100:00C4CC&height=220&section=header&text=Hey%2C%20I'm%20yazouv%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20•%20FiveM%20Lua%20Developer&descAlignY=58&descSize=18" alt="header" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%8E%AE+Lua+scripts+for+FiveM+servers;%F0%9F%8C%90+Full-stack+web+tinkerer;%F0%9F%9A%80+Always+building+something+new" alt="Typing SVG"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yazouv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yazouv) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yazouv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yazouv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@yazouv) 
+<p align="center">
+  <a href="https://instagram.com/yazouv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://reddit.com/user/yazouv"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://twitch.tv/yazouv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+  <a href="https://x.com/yazouv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://youtube.com/@yazouv"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+<!-- ======================= ABOUT ======================= -->
+## 💫 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 I'm a **computer science student**
+- 🎮 I love creating **Lua scripts** for [FiveM](https://fivem.net) servers
+- 🌐 I also build web apps with **TypeScript, Node.js & PHP**
+- 📦 Check out my FiveM scripts **[right here](https://github.com/yazouv?tab=repositories&language=lua)**
+- 💬 Feel free to reach out on Discord!
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://discord.com/users/391597830932004864">
+  <img src="https://lanyard.cnrad.dev/api/391597830932004864" alt="Discord presence"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- ======================= TECH STACK ======================= -->
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td align="center" width="140"><b>🧠 Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" alt="Python"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Frameworks</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Infra & DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH"/>
+<img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔧 Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Design</b></td>
+<td>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎮 Gaming</b></td>
+<td>
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games"/>
+<img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games"/>
+</td>
+</tr>
+</table>
+
+<!-- ======================= GITHUB STATS ======================= -->
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yazouv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=00C4CC&icon_color=4FC3F7&text_color=C9D1D9&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazouv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00C4CC&text_color=C9D1D9&bg_color=0D1117" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yazouv&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4CC&fire=4FC3F7&currStreakLabel=00C4CC&sideLabels=00C4CC&dates=8B949E" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yazouv&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Contribution graph"/>
+</p>
+
+<!-- ======================= WAKATIME ======================= -->
+## ⏱️ Dev Metrics
+
+<summary><b>📊 Click to see my WakaTime stats</b> <i>(auto-updated daily)</i></summary>
 <br>
-[![Discord : ](https://lanyard.cnrad.dev/api/391597830932004864)](https://discord.com/users/391597830932004864)
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
- 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%202%20mins-blue?style=flat)
 
@@ -123,32 +244,11 @@ C                        1 repo              ░░░░░░░░░░░�
  Last Updated on 27/09/2026 15:52:57 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:SHOW_PROJECTS-->
-<!--END_SECTION:SHOW_PROJECTS-->
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yazouv&label=Profile%20views&color=0077B6&style=flat-square" alt="Profile views"/>
+</p>
 
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
-
-<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
-<!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
-
-<!--START_SECTION:SHOW_COMMIT-->
-<!--END_SECTION:SHOW_COMMIT-->
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
-
-<!--START_SECTION:SHOW_PROFILE_VIEWS-->
-<!--END_SECTION:SHOW_PROFILE_VIEWS-->
-
-<!--START_SECTION:SHOW_TIMEZONE-->
-<!--END_SECTION:SHOW_TIMEZONE-->
-
-<!--START_SECTION:SHOW_LANGUAGE_PER_REPO-->
-<!--END_SECTION:SHOW_LANGUAGE_PER_REPO-->
-
-<!--START_SECTION:SHOW_SHORT_INFO-->
-<!--END_SECTION:SHOW_SHORT_INFO-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:0077B6,100:00C4CC&height=120&section=footer" alt="footer" width="100%"/>
+</p>
