@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:0077B6,100:00C4CC&height=220&section=header&text=Hey%2C%20I'm%20yazouv%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20•%20FiveM%20Lua%20Developer&descAlignY=58&descSize=18" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:0077B6,100:00C4CC&height=220&section=header&text=Hey%2C%20I'm%20yazouv%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20•%20Web%20%26%20FiveM%20Developer&descAlignY=58&descSize=18" alt="header" width="100%"/>
 </p>
 
 <p align="center">
@@ -111,136 +111,32 @@
 </tr>
 </table>
 
-<!-- ======================= GITHUB STATS ======================= -->
-## 📈 GitHub Stats
+<!-- ======================= WHOAMI ======================= -->
+## 🧬 yazouv.ts
+
+```ts
+const yazouv = {
+  status: "CS student",
+  web:    ["TypeScript", "Node.js", "PHP", "Electron"],
+  fivem:  ["Lua", "NUI", "oxmysql"],
+  fuel:   ["coffee", "lofi", "one more feature"],
+
+  // honestly, it depends on the day
+  currentlyBuilding: () =>
+    Math.random() > 0.5 ? "a web app 🌐" : "a FiveM script 🎮",
+};
+```
+
+<!-- ======================= SNAKE ======================= -->
+## 🐍 Contributions, served as a snack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yazouv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=00C4CC&icon_color=4FC3F7&text_color=C9D1D9&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazouv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00C4CC&text_color=C9D1D9&bg_color=0D1117" alt="Top languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yazouv/yazouv/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yazouv/yazouv/output/github-snake.svg"/>
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yazouv/yazouv/output/github-snake-dark.svg"/>
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yazouv&theme=tokyonight&hide_border=true&background=0D1117&ring=00C4CC&fire=4FC3F7&currStreakLabel=00C4CC&sideLabels=00C4CC&dates=8B949E" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yazouv&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Contribution graph"/>
-</p>
-
-<!-- ======================= WAKATIME ======================= -->
-## ⏱️ Dev Metrics
-
-<summary><b>📊 Click to see my WakaTime stats</b> <i>(auto-updated daily)</i></summary>
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2030%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2025%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.34%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 4,320 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 37 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5862 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-🌆 Daytime                16861 commits       ██████████░░░░░░░░░░░░░░░   41.06 % 
-🌃 Evening                14861 commits       █████████░░░░░░░░░░░░░░░░   36.19 % 
-🌙 Night                  3478 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   5566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Tuesday                  7046 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                6594 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Thursday                 4566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Friday                   5748 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Saturday                 5169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Sunday                   6373 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Markdown                 3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
-Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-PHP                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-JavaScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████░░░░░░░░░░░░   50.23 % 
-Claude Code              6 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.77 % 
-
-🐱‍💻 Projects: 
-IUT                      2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-RecrutementsRevolutionV2 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-EDTUnilim                1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-R5-06                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-!AAC                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-
-💻 Operating System: 
-Windows                  12 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 7 mins (64.4%)
-
-✍️ 9,874 lines written by AI, 338 lines written by hand (96.69% AI-written)
-
-🔤 2,136,544 Input Tokens, 621,394 Output Tokens
-
-💵 $67.70 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 105 AI Prompts
-
-Opus                     13,045 lines        ███████████████████████░░   93.51 % 
-Sonnet                   906 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.69% of written lines came from AI
-📝 Concise Prompter — average 394 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.58% of changed lines were hand-edited
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Lua                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-
-
-
-
- Last Updated on 30/09/2026 17:04:34 UTC
-<!--END_SECTION:waka-->
 
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
